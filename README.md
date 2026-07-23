@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpittiwari2711/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Arpittiwari2711/LeetCode/tree/master/0038-count-and-say) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arpittiwari2711/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
