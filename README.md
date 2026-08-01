@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Arpittiwari2711/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Arpittiwari2711/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Arpittiwari2711/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arpittiwari2711/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Arpittiwari2711/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Arpittiwari2711/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arpittiwari2711/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Arpittiwari2711/LeetCode/tree/master/0055-jump-game) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arpittiwari2711/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arpittiwari2711/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Arpittiwari2711/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 ## Enumeration
 |  |
 | ------- |
@@ -95,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
