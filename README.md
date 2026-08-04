@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Arpittiwari2711/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arpittiwari2711/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arpittiwari2711/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arpittiwari2711/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Arpittiwari2711/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpittiwari2711/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Arpittiwari2711/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arpittiwari2711/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
