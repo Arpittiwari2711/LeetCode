@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Arpittiwari2711/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Arpittiwari2711/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Arpittiwari2711/LeetCode/tree/master/0071-simplify-path) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arpittiwari2711/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpittiwari2711/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Arpittiwari2711/LeetCode/tree/master/0071-simplify-path) |
 ## Array
 |  |
 | ------- |
