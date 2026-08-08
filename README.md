@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arpittiwari2711/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Arpittiwari2711/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Arpittiwari2711/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Arpittiwari2711/LeetCode/tree/master/0068-text-justification) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arpittiwari2711/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arpittiwari2711/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Arpittiwari2711/LeetCode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Arpittiwari2711/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arpittiwari2711/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Arpittiwari2711/LeetCode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Arpittiwari2711/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
