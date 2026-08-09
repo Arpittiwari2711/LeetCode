@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Arpittiwari2711/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Arpittiwari2711/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arpittiwari2711/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Arpittiwari2711/LeetCode/tree/master/0072-edit-distance) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arpittiwari2711/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arpittiwari2711/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Arpittiwari2711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arpittiwari2711/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Arpittiwari2711/LeetCode/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
